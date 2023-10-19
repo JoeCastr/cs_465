@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
 
 // Define the trip schema
 const tripSchema = new mongoose.Schema({
